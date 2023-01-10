@@ -1,0 +1,854 @@
+.vectorIcon {
+  position: absolute;
+  top: 3165px;
+  left: 833px;
+  width: 120px;
+  height: 10px;
+}
+.ellipseIcon,
+.vectorIcon1 {
+  position: absolute;
+  top: 1586px;
+  left: 73px;
+  width: 612px;
+  height: 606px;
+}
+.vectorIcon1 {
+  top: 1789.5px;
+  left: 978.5px;
+  width: 83px;
+  height: 7px;
+}
+.ellipseIcon1,
+.vectorIcon2 {
+  position: absolute;
+  top: 1002px;
+  left: 922px;
+  width: 532px;
+  height: 498px;
+}
+.vectorIcon2 {
+  top: 67px;
+  left: 49px;
+  width: 21px;
+  height: 2px;
+}
+.rectangleDiv,
+.rectangleDiv1 {
+  position: absolute;
+  border-radius: 0 400px 0 0;
+}
+.rectangleDiv {
+  top: 848px;
+  left: 0;
+  background-color: #65fbd2;
+  width: 1293px;
+  height: 578px;
+}
+.rectangleDiv1 {
+  top: 2325px;
+  left: 1418px;
+  background-color: rgba(255, 222, 212, 0.3);
+  box-shadow: 0 0 0 4px rgba(255, 255, 255, 0.01);
+  width: 1244px;
+  height: 673px;
+  transform: rotate(180deg);
+  transform-origin: 0 0;
+}
+.vectorIcon3 {
+  position: absolute;
+  top: 1029px;
+  left: 710px;
+  width: 159px;
+  height: 10px;
+}
+.ellipseIcon2,
+.vectorIcon4 {
+  position: absolute;
+  top: 198px;
+  left: 649px;
+  width: 589px;
+  height: 506px;
+}
+.vectorIcon4 {
+  top: 467px;
+  left: 52px;
+  width: 291px;
+  height: 20px;
+}
+.homeSpan {
+  font-weight: 600;
+}
+.dreamAgencyDiv,
+.homeAboutUsServicesContact {
+  position: absolute;
+  top: 47px;
+  left: 50px;
+  letter-spacing: 0.01em;
+  display: inline-block;
+  text-shadow: 0 0 0 rgba(255, 255, 255, 0.01);
+}
+.dreamAgencyDiv {
+  top: 43px;
+  left: 619px;
+  font-size: 24px;
+  font-family: Playfair Display;
+  width: 163px;
+  height: 36px;
+}
+.maskGroupIcon,
+.vectorIcon5 {
+  position: absolute;
+  top: 112.33px;
+  left: 795.5px;
+  width: 445px;
+  height: 630.17px;
+}
+.maskGroupIcon {
+  top: 168.99px;
+  left: 663px;
+  width: 721px;
+  height: 519.01px;
+}
+.maskGroupIcon1,
+.vectorIcon6 {
+  position: absolute;
+  top: 1573.57px;
+  left: 53.53px;
+  width: 655.52px;
+  height: 593.56px;
+}
+.maskGroupIcon1 {
+  top: 1350.35px;
+  left: -126px;
+  width: 988.06px;
+  height: 1007.24px;
+}
+.weHelpYou {
+  font-family: Hind Vadodara;
+}
+.toGrowYour {
+  font-weight: 300;
+}
+.weHelpYouToGrowYour {
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+.businessP {
+  margin: 0;
+}
+.loremIpsumHasBeenTheIndus,
+.weHelpYouToGrowYourBusin {
+  position: absolute;
+  top: 233px;
+  left: 50px;
+  font-size: 87px;
+  letter-spacing: -0.01em;
+  line-height: 99.8%;
+  display: inline-block;
+  width: 498px;
+  text-shadow: 0 0 0 rgba(255, 255, 255, 0.01);
+}
+.loremIpsumHasBeenTheIndus {
+  top: 521px;
+  left: 52px;
+  font-size: 17px;
+  letter-spacing: 0.02em;
+  line-height: 146.3%;
+  color: rgba(51, 27, 59, 0.66);
+  width: 515px;
+  height: 82px;
+}
+.groupIcon,
+.groupIcon1,
+.groupIcon2 {
+  position: absolute;
+  top: 26.36px;
+  left: 1175.43px;
+  width: 62.76px;
+  height: 64.88px;
+}
+.groupIcon1,
+.groupIcon2 {
+  left: 1234.43px;
+}
+.groupIcon2 {
+  left: 1295.43px;
+}
+.whatWeDoForYourBusiness {
+  position: absolute;
+  top: 940px;
+  left: 526px;
+  font-size: 48px;
+  letter-spacing: -0.01em;
+  line-height: 106.3%;
+  text-align: center;
+  display: inline-block;
+  text-shadow: 0 0 0 rgba(255, 255, 255, 0.01);
+}
+.rectangleDiv2,
+.rectangleDiv3 {
+  position: absolute;
+  top: 1137px;
+  left: 614px;
+  border-radius: 10px;
+  background-color: #fff;
+  box-shadow: 0 0 0 4px rgba(255, 255, 255, 0.01);
+  width: 308px;
+  height: 192px;
+}
+.rectangleDiv3 {
+  top: 0;
+  left: 0;
+}
+.loremIpsumHasBeenTheIndus1,
+.websiteDesign {
+  position: absolute;
+  display: inline-block;
+  text-shadow: 0 0 0 rgba(255, 255, 255, 0.01);
+}
+.websiteDesign {
+  top: 79px;
+  left: 19px;
+  letter-spacing: 0.06em;
+  line-height: 137.3%;
+  text-transform: uppercase;
+}
+.loremIpsumHasBeenTheIndus1 {
+  top: 107px;
+  left: 17px;
+  font-size: 15px;
+  letter-spacing: 0.02em;
+  line-height: 145.3%;
+  font-weight: 300;
+  color: rgba(51, 27, 59, 0.66);
+  width: 275px;
+  height: 82px;
+}
+.rectangleDiv4 {
+  position: absolute;
+  top: 18px;
+  left: 19px;
+  border-radius: 10px;
+  background-color: #ffded4;
+  box-shadow: 0 0 0 4px rgba(255, 255, 255, 0.01);
+  width: 52px;
+  height: 48px;
+}
+.website49431Icon {
+  position: absolute;
+  top: 25.23px;
+  left: 28.23px;
+  width: 33.54px;
+  height: 33.54px;
+  overflow: hidden;
+}
+.groupDiv {
+  position: absolute;
+  top: 1137px;
+  left: 265px;
+  box-shadow: 0 0 0 4px rgba(255, 255, 255, 0.01);
+  width: 308px;
+  height: 192px;
+}
+.loremIpsumHasBeenTheIndus2,
+.webDevelopment {
+  position: absolute;
+  display: inline-block;
+  text-shadow: 0 0 0 rgba(255, 255, 255, 0.01);
+}
+.webDevelopment {
+  top: 1216px;
+  left: 638px;
+  letter-spacing: 0.06em;
+  line-height: 137.3%;
+  text-transform: uppercase;
+}
+.loremIpsumHasBeenTheIndus2 {
+  top: 1244px;
+  left: 636px;
+  font-size: 15px;
+  letter-spacing: 0.02em;
+  line-height: 145.3%;
+  font-weight: 300;
+  color: rgba(51, 27, 59, 0.66);
+  width: 275px;
+  height: 82px;
+}
+.rectangleDiv5 {
+  position: absolute;
+  top: 1155px;
+  left: 638px;
+  border-radius: 10px;
+  background-color: #ffeed4;
+  box-shadow: 0 0 0 4px rgba(255, 255, 255, 0.01);
+  width: 52px;
+  height: 48px;
+}
+.computer68231Icon {
+  position: absolute;
+  top: 1163.68px;
+  left: 645.26px;
+  width: 37.48px;
+  height: 34.63px;
+  overflow: hidden;
+}
+.rectangleDiv7 {
+  position: absolute;
+  top: 18px;
+  left: 19px;
+  border-radius: 10px;
+  background-color: #65fbd2;
+  box-shadow: 0 0 0 4px rgba(255, 255, 255, 0.01);
+  width: 52px;
+  height: 48px;
+}
+.mobilePhone11641Icon {
+  position: absolute;
+  top: 23.28px;
+  left: 29px;
+  width: 36px;
+  height: 39.45px;
+  overflow: hidden;
+}
+.groupDiv1 {
+  position: absolute;
+  top: 1137px;
+  left: 962px;
+  box-shadow: 0 0 0 4px rgba(255, 255, 255, 0.01);
+  width: 308px;
+  height: 192px;
+}
+.groupIcon3 {
+  position: absolute;
+  top: 1295px;
+  left: 140px;
+  width: 85px;
+  height: 34px;
+}
+.loremIpsumHasBeenTheIndus4 {
+  position: absolute;
+  top: 2378px;
+  left: 835px;
+  font-size: 17px;
+  letter-spacing: 0.02em;
+  line-height: 146.3%;
+  display: inline-block;
+  width: 515px;
+  height: 82px;
+  text-shadow: 0 0 0 rgba(255, 255, 255, 0.01);
+}
+.rectangleDiv8 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 10px;
+  background-color: #331b3b;
+  box-shadow: 0 0 0 4px rgba(255, 255, 255, 0.01);
+  width: 207px;
+  height: 66px;
+}
+.getStartedB {
+  position: absolute;
+  top: 22px;
+  left: 49px;
+  letter-spacing: 0.02em;
+  line-height: 137.3%;
+  text-transform: uppercase;
+  display: inline-block;
+  text-shadow: 0 0 0 rgba(255, 255, 255, 0.01);
+}
+.groupDiv2 {
+  position: absolute;
+  top: 655.01px;
+  left: 52px;
+  box-shadow: 0 0 0 4px rgba(255, 255, 255, 0.01);
+  width: 207px;
+  height: 66px;
+  font-size: 17px;
+  color: #fff;
+}
+.aboutUsFakeOrReal,
+.loremIpsumHasBeenTheIndus6,
+.loremIpsumHasBeenTheIndus7 {
+  position: absolute;
+  display: inline-block;
+  text-shadow: 0 0 0 rgba(255, 255, 255, 0.01);
+}
+.aboutUsFakeOrReal {
+  top: 0;
+  left: 0;
+  font-size: 48px;
+  letter-spacing: -0.01em;
+  line-height: 106.3%;
+  color: #331b3b;
+}
+.loremIpsumHasBeenTheIndus6,
+.loremIpsumHasBeenTheIndus7 {
+  top: 124px;
+  left: 2px;
+  letter-spacing: 0.02em;
+  line-height: 146.3%;
+  width: 515px;
+  height: 82px;
+}
+.loremIpsumHasBeenTheIndus7 {
+  top: 215px;
+}
+.groupDiv4 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  box-shadow: 0 0 0 4px rgba(255, 255, 255, 0.01);
+  width: 517px;
+  height: 297px;
+}
+.exploreMoreB {
+  position: absolute;
+  top: 22px;
+  left: 41px;
+  letter-spacing: 0.02em;
+  line-height: 137.3%;
+  text-transform: uppercase;
+  display: inline-block;
+  text-shadow: 0 0 0 rgba(255, 255, 255, 0.01);
+}
+.groupDiv3,
+.groupDiv5 {
+  position: absolute;
+  box-shadow: 0 0 0 4px rgba(255, 255, 255, 0.01);
+}
+.groupDiv5 {
+  top: 334px;
+  left: 0;
+  width: 207px;
+  height: 66px;
+  color: #fff;
+}
+.groupDiv3 {
+  top: 1698px;
+  left: 824px;
+  width: 517px;
+  height: 400px;
+  font-size: 17px;
+  color: rgba(51, 27, 59, 0.66);
+}
+.vectorIcon7 {
+  position: absolute;
+  top: 2460.5px;
+  left: 194.5px;
+  width: 147.5px;
+  height: 7px;
+}
+.ourRecentWorkByOurExperts {
+  position: absolute;
+  top: 2367px;
+  left: 50px;
+  font-size: 48px;
+  letter-spacing: -0.01em;
+  line-height: 106.3%;
+  display: inline-block;
+  text-shadow: 0 0 0 rgba(255, 255, 255, 0.01);
+}
+.rectangleDiv10 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 10px;
+  background-color: #fff;
+  box-shadow: 0 0 0 4px rgba(255, 255, 255, 0.01);
+  width: 419px;
+  height: 365px;
+}
+.uISoupB,
+.viewWorkDiv {
+  position: absolute;
+  top: 295px;
+  left: 30px;
+  line-height: 146.3%;
+  display: inline-block;
+  text-shadow: 0 0 0 rgba(255, 255, 255, 0.01);
+}
+.viewWorkDiv {
+  top: 2px;
+  left: 12px;
+  font-weight: 500;
+}
+.groupDiv6,
+.groupDiv7,
+.rectangleDiv11 {
+  position: absolute;
+  box-shadow: 0 0 0 4px rgba(255, 255, 255, 0.01);
+  width: 92px;
+  height: 23px;
+}
+.rectangleDiv11 {
+  top: 0;
+  left: 0;
+  border-radius: 100px;
+  border: 1px solid #343434;
+  box-sizing: border-box;
+}
+.groupDiv6,
+.groupDiv7 {
+  top: 304px;
+  left: 305px;
+  font-size: 14px;
+}
+.groupDiv6 {
+  top: 2549px;
+  left: 268px;
+  width: 419px;
+  height: 365px;
+  font-size: 24px;
+}
+.viewWorkDiv1 {
+  position: absolute;
+  top: 306px;
+  left: 317px;
+  font-size: 14px;
+  line-height: 146.3%;
+  font-weight: 500;
+  display: inline-block;
+  text-shadow: 0 0 0 rgba(255, 255, 255, 0.01);
+}
+.groupDiv8,
+.rectangleDiv13 {
+  position: absolute;
+  box-shadow: 0 0 0 4px rgba(255, 255, 255, 0.01);
+}
+.rectangleDiv13 {
+  top: 304px;
+  left: 305px;
+  border-radius: 100px;
+  border: 1px solid #343434;
+  box-sizing: border-box;
+  width: 92px;
+  height: 23px;
+}
+.groupDiv8 {
+  top: 2549px;
+  left: 730px;
+  width: 419px;
+  height: 365px;
+  font-size: 24px;
+}
+.ourTestimonialsWhatOurClie {
+  position: absolute;
+  top: 3073px;
+  left: 397px;
+  font-size: 48px;
+  letter-spacing: -0.01em;
+  line-height: 110.8%;
+  text-align: center;
+  display: inline-block;
+  text-shadow: 0 0 0 rgba(255, 255, 255, 0.01);
+}
+.rectangleDiv15 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: #fff;
+  box-shadow: 0 0 0 4px rgba(255, 255, 255, 0.01);
+  width: 448px;
+  height: 310px;
+}
+.icon {
+  position: absolute;
+  top: 24px;
+  left: 19px;
+  width: 64px;
+  height: 64px;
+  overflow: hidden;
+}
+.loremIpsumHasBeenTheIndus8 {
+  position: absolute;
+  top: 106px;
+  left: 29px;
+  letter-spacing: 0.02em;
+  line-height: 159.3%;
+  display: inline-block;
+  width: 384px;
+  height: 136px;
+  text-shadow: 0 0 0 rgba(255, 255, 255, 0.01);
+}
+.vectorIcon8 {
+  position: absolute;
+  top: 257.5px;
+  left: 29px;
+  width: 11px;
+  height: 3px;
+}
+.uISoupDiv {
+  position: absolute;
+  top: 246px;
+  left: 47.5px;
+  letter-spacing: 0.02em;
+  line-height: 159.3%;
+  font-weight: 600;
+  color: #000;
+  display: inline-block;
+  text-shadow: 0 0 0 rgba(255, 255, 255, 0.01);
+}
+.groupDiv10,
+.rectangleDiv16 {
+  position: absolute;
+  top: 3238px;
+  left: 194px;
+  box-shadow: 0 0 0 4px rgba(255, 255, 255, 0.01);
+  width: 448px;
+  height: 310px;
+}
+.rectangleDiv16 {
+  top: 0;
+  left: 0;
+  background-color: #fff;
+  box-shadow: 0 0 7px 1px rgba(0, 0, 0, 0.08);
+}
+.loremIpsumHasBeenTheIndus9,
+.uISoupDiv1 {
+  position: absolute;
+  font-size: 16px;
+  letter-spacing: 0.02em;
+  line-height: 159.3%;
+  font-family: Hind Vadodara;
+  text-align: left;
+  display: inline-block;
+}
+.loremIpsumHasBeenTheIndus9 {
+  top: 106px;
+  left: 29px;
+  color: #331b3b;
+  width: 384px;
+  height: 136px;
+}
+.uISoupDiv1 {
+  top: 246px;
+  left: 47.5px;
+  font-weight: 600;
+  color: #000;
+}
+.groupButton {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 3238px;
+  left: 711px;
+  box-shadow: 0 0 0 4px rgba(255, 255, 255, 0.01);
+  width: 448px;
+  height: 310px;
+}
+.groupIcon4,
+.rectangleDiv17 {
+  position: absolute;
+  top: 2932px;
+  left: 192px;
+  width: 85px;
+  height: 34px;
+}
+.rectangleDiv17 {
+  top: 0;
+  left: 0;
+  border-radius: 0 158px 0 0;
+  background-color: #000;
+  width: 1400px;
+  height: 453px;
+}
+.dreamAgencyDiv1,
+.loremIpsumHasBeenTheIndus10 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  letter-spacing: 0.01em;
+  display: inline-block;
+  width: 275px;
+  height: 52px;
+  text-shadow: 0 0 0 rgba(255, 255, 255, 0.01);
+}
+.loremIpsumHasBeenTheIndus10 {
+  top: 67px;
+  left: 1px;
+  font-size: 16px;
+  letter-spacing: 0.02em;
+  line-height: 159.3%;
+  font-family: Hind Vadodara;
+  width: 439px;
+  height: 136px;
+}
+.groupDiv11 {
+  position: absolute;
+  top: 66px;
+  left: 50px;
+  box-shadow: 0 0 0 4px rgba(255, 255, 255, 0.01);
+  width: 440px;
+  height: 203px;
+  font-size: 36px;
+  font-family: Playfair Display;
+}
+.getInTouch,
+.rectangleDiv18 {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.getInTouch {
+  letter-spacing: 0.02em;
+  line-height: 159.3%;
+  text-transform: uppercase;
+  font-weight: 600;
+  display: inline-block;
+  text-shadow: 0 0 0 rgba(255, 255, 255, 0.01);
+}
+.rectangleDiv18 {
+  box-shadow: 0 0 0 4px rgba(255, 255, 255, 0.01);
+  border: 1px solid #fff;
+  box-sizing: border-box;
+  width: 263px;
+  height: 52px;
+}
+.enterYourEmail {
+  position: absolute;
+  top: 13px;
+  left: 13px;
+  letter-spacing: 0.02em;
+  line-height: 159.3%;
+  text-transform: uppercase;
+  display: inline-block;
+  text-shadow: 0 0 0 rgba(255, 255, 255, 0.01);
+}
+.groupDiv14,
+.rectangleDiv19 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  box-shadow: 0 0 0 4px rgba(255, 255, 255, 0.01);
+  width: 263px;
+  height: 52px;
+}
+.rectangleDiv19 {
+  background-color: #fff;
+  border: 1px solid #fff;
+  box-sizing: border-box;
+  width: 143px;
+}
+.sendDiv {
+  position: absolute;
+  top: 14px;
+  left: 52px;
+  letter-spacing: 0.02em;
+  line-height: 159.3%;
+  text-transform: uppercase;
+  font-weight: 600;
+  display: inline-block;
+  text-shadow: 0 0 0 rgba(255, 255, 255, 0.01);
+}
+.groupDiv12,
+.groupDiv13,
+.groupDiv15 {
+  position: absolute;
+  box-shadow: 0 0 0 4px rgba(255, 255, 255, 0.01);
+  height: 52px;
+}
+.groupDiv15 {
+  top: 0;
+  left: 263px;
+  width: 143px;
+  color: #000;
+}
+.groupDiv12,
+.groupDiv13 {
+  top: 40px;
+  left: 0;
+  width: 406px;
+}
+.groupDiv12 {
+  top: 256px;
+  left: 50px;
+  height: 92px;
+}
+.rectangleIcon {
+  position: absolute;
+  top: -4px;
+  left: -4px;
+  width: 492px;
+  height: 308px;
+  object-fit: cover;
+}
+.groupDiv16,
+.rectangleDiv20 {
+  position: absolute;
+  box-shadow: 0 0 0 4px rgba(255, 255, 255, 0.01);
+}
+.rectangleDiv20 {
+  top: 26px;
+  left: 32px;
+  background-color: #fff;
+  width: 197px;
+  height: 84px;
+}
+.groupDiv16 {
+  top: 77px;
+  left: 764px;
+  width: 484px;
+  height: 300px;
+}
+.texasB {
+  font-family: Roboto;
+}
+.texasUnitedStates,
+.viewLargerMap {
+  position: absolute;
+  display: inline-block;
+  text-shadow: 0 0 0 rgba(255, 255, 255, 0.01);
+}
+.texasUnitedStates {
+  top: 110px;
+  left: 806px;
+  line-height: 134.8%;
+  color: #414141;
+  width: 122px;
+  height: 50px;
+  font-family: Roboto;
+}
+.viewLargerMap {
+  top: 156px;
+  left: 807px;
+  font-size: 14px;
+  line-height: 159.3%;
+  color: #65fbd2;
+}
+.frameDiv1 {
+  position: absolute;
+  top: 3640px;
+  left: 0;
+  width: 1400px;
+  height: 453px;
+  color: #fff;
+}
+.image63Icon,
+.image64Icon {
+  position: absolute;
+  top: 2597px;
+  left: 300px;
+  width: 342px;
+  height: 218px;
+  object-fit: cover;
+}
+.image64Icon {
+  top: 2580px;
+  left: 758px;
+  width: 360px;
+  height: 224px;
+}
+.frameDiv {
+  position: relative;
+  background-color: #fff;
+  width: 100%;
+  height: 4093px;
+  text-align: left;
+  font-size: 16px;
+  color: #331b3b;
+  font-family: Hind Vadodara;
+}
